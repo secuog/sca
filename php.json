@@ -1,0 +1,18 @@
+{
+  "filepath": "D:/php.ini",
+  "separator": "=",
+  "commentor": ";",
+  "scitems": {
+    "allow_url_include": "off",
+    "allow_url_fopen": "off",
+    "open_basedir": "/var/www",
+    "disable_functions": "system,passthru,shell_exec,popen,phpinfo",
+    "expose_php": "off",
+    "register_globals": "off",
+    "magic_quotes_gpc": "off",
+    "display_errors": "off",
+    "log_errors": "on",
+    "safe_mode": "on",
+    "safe_mode_gid": "off"
+  }
+}
